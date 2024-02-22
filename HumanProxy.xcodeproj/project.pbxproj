@@ -131,13 +131,8 @@
 		DFB03E332B8305E9008E316E /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
-				DFB03E472B830798008E316E /* MainViewController.swift */,
-				DFB03E492B8307BB008E316E /* MainView.swift */,
-				DFB03E4B2B8308E2008E316E /* MainCollectionViewCell.swift */,
-				DFB03E552B831EFC008E316E /* DetailViewController.swift */,
-				DFB03E572B831F1B008E316E /* DetailView.swift */,
-				DFB03E642B8797BB008E316E /* ExchangeRateCell.swift */,
-				DFB03E5F2B84CFAF008E316E /* SwiftUIChartView.swift */,
+				DFB03E6A2B87B68D008E316E /* Main */,
+				DFB03E6B2B87B695008E316E /* Detail */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -175,6 +170,27 @@
 				DFB03E432B83071B008E316E /* ServiceMock.swift */,
 			);
 			path = Service;
+			sourceTree = "<group>";
+		};
+		DFB03E6A2B87B68D008E316E /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				DFB03E472B830798008E316E /* MainViewController.swift */,
+				DFB03E492B8307BB008E316E /* MainView.swift */,
+				DFB03E4B2B8308E2008E316E /* MainCollectionViewCell.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		DFB03E6B2B87B695008E316E /* Detail */ = {
+			isa = PBXGroup;
+			children = (
+				DFB03E552B831EFC008E316E /* DetailViewController.swift */,
+				DFB03E572B831F1B008E316E /* DetailView.swift */,
+				DFB03E642B8797BB008E316E /* ExchangeRateCell.swift */,
+				DFB03E5F2B84CFAF008E316E /* SwiftUIChartView.swift */,
+			);
+			path = Detail;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
