@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseURL</key>
+	<string>https://rest.coinapi.io/v1</string>
+	<key>APIKey</key>
+	<string>ACED2405-0CB1-4FB8-8477-A42E5C95A707</string>
+</dict>
+</plist>
